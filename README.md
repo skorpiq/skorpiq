@@ -22,10 +22,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram)](https://t.me/{username})  
 [![Email](https://img.shields.io/badge/Email-ff0000?style=for-the-badge&logo=gmail)](mailto:ваш@email.com)  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skorpiq&label=Просмотры&color=ff0000&style=flat-square" alt="Просмотры профиля" />
-</p>
-
 <!--
 **skorpiq/skorpiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
