@@ -1,4 +1,9 @@
 ## KAKASHKE 👋
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/cZfEvBW200EAAAAd/%D0%B3%D1%83%D0%BB%D1%8C-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100"/>
+</div>
+
+
 
 <!--
 **skorpiq/skorpiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
