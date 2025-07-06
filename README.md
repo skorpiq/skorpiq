@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=merko&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skorpiq&show_icons=true&theme=merko&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" alt="Статистика GitHub" />
 </div>
 
 ---
