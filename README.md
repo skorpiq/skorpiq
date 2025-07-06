@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center"> 
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/red-heart_2764-fe0f.png" width="30"> Привет, я {ваше имя} <img src="https://em-content.zobj.net/source/microsoft-teams/363/red-heart_2764-fe0f.png" width="30">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/red-heart_2764-fe0f.png" width="30"> Привет, я еблан <img src="https://em-content.zobj.net/source/microsoft-teams/363/red-heart_2764-fe0f.png" width="30">
 </h1>
 
 <p align="center">
@@ -17,9 +17,6 @@
 
 ---
 
-### 🔥 **Мои проекты**  
-- [Проект 1](ссылка) — описание.  
-- [Проект 2](ссылка) — описание.  
 
 ### 📫 **Контакты**  
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram)](https://t.me/{username})  
