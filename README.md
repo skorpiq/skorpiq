@@ -4,7 +4,8 @@
 <img src="https://i.pinimg.com/originals/23/0d/7c/230d7c1cca23301a3f0ed88500ef821c.gif" width="600"/>
 </div>
 
-### :woman_technologist: About Me :
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **skorpiq/skorpiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
