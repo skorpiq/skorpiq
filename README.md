@@ -18,7 +18,7 @@
 
 ---
 
-### :fire: My Stats :
+<!--### :fire: My Stats :-->
 
 
 <!--
