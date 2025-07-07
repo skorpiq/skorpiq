@@ -5,7 +5,7 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!--
 **skorpiq/skorpiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
