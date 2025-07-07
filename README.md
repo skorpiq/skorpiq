@@ -1,6 +1,7 @@
 ## KAKASHKE 👋
 <div id="header" align="center">
   <img src="https://i.gifer.com/5Aqf.gif" width="600"/>
+---------------------------------------------------------------------------------------------------------  
   <img src="https://i.pinimg.com/originals/23/0d/7c/230d7c1cca23301a3f0ed88500ef821c.gif" width="600"/>
 </div>
 
